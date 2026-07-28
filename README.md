@@ -3,7 +3,7 @@
   <img src="./assets/banner.gif" alt="Lappland Banner" width="100%" style="max-width: 700px; border-radius: 8px; border: 1px solid #30363d;">
 </p>
 
-<h1 align="center">🐺 Hi there, I'm Nethrune! 🐺</h1>
+<h1 align="center">🐺 Hi there, I'm Nethrune!</h1>
 
 <p align="center">
   💻 <b>Developer • Programmer • Student</b>
